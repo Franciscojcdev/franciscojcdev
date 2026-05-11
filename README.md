@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Francisco 👋
 
-<!--
-**Franciscojcdev/franciscojcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst specializing in **Automation & AI-driven Processes**
 
-Here are some ideas to get you started:
+🔍 I help teams identify inefficiencies and build scalable, data-driven solutions  
+🤖 Working with Python, LLMs (OpenAI, Claude), n8n, and workflow automation  
+📊 Experienced in Power BI, SQL, Excel (Power Query) and enterprise systems (SAP, Salesforce)  
+🌎 Based in Córdoba, Argentina · Open to remote opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+`Python` `SQL` `JavaScript` `React` `HTML/CSS`  
+`Power BI` `Excel` `n8n` `OpenAI API` `Claude API`  
+`SAP` `Salesforce` `Jira`
+
+---
+
+📫 **francisco.j.castro@outlook.com**  
+🔗 [LinkedIn](https://linkedin.com/in/francisco-castro-126122191)
