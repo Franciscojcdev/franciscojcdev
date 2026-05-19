@@ -4,13 +4,13 @@
 
 Building AI-powered workflows and intelligent automation for business operations.
 
-🇦🇷 Based in Córdoba, Argentina · Open to remote opportunities worldwide
+🇦🇷 Based in Córdoba, Argentina. Open to remote opportunities worldwide.
 
 ---
 
 ## 🔧 What I do
 
-I design and build end-to-end automation solutions that connect business logic, data, and AI — turning manual, repetitive work into reliable systems that scale.
+I design and build end-to-end automation solutions that connect business logic, data, and AI. The goal: turning manual, repetitive work into reliable systems that scale.
 
 - **AI Workflow Automation** with n8n, Claude API, and OpenAI
 - **Business Intelligence** dashboards combining data analysis with AI-generated insights
@@ -47,24 +47,27 @@ I design and build end-to-end automation solutions that connect business logic, 
 
 ### 🤖 AI News Digest
 Automated newsletter that scrapes industry sources, processes content with Claude, and delivers personalized digests via Gmail.
-**Stack:** n8n · Claude API · RSS feeds · Gmail API
+
+**Stack:** n8n, Claude API, RSS feeds, Gmail API
 
 ### 📊 KPI Operations Report Generator
 End-to-end workflow that pulls operational data from Power BI, generates AI-driven insights with Claude, and delivers executive-ready reports.
-**Stack:** n8n · Claude API · Power BI · Gmail
+
+**Stack:** n8n, Claude API, Power BI, Gmail
 
 ### 🏠 Property Flow
-Property management workflow that captures leads via Google Forms, organizes pipeline in Trello, and syncs data to Google Sheets — built for a real estate use case.
-**Stack:** n8n · Google Forms · Trello · Google Sheets
+Property management workflow that captures leads via Google Forms, organizes pipeline in Trello, and syncs data to Google Sheets. Built for a real estate use case.
+
+**Stack:** n8n, Google Forms, Trello, Google Sheets
 
 ---
 
 ## 💼 Background
 
-- **Business & Management Degree** — Universidad Nacional de Córdoba
-- **3+ years corporate experience** — Business Analyst at Accenture (Technology Consulting) and Grupo Edisur
-- **3 years in Australia** — AV Operations & Team Lead at The Star Entertainment Group (Gold Coast) and Encore (Sydney)
-- **Currently:** Independent consulting projects + transitioning back to a corporate role focused on Data & AI
+- **Lic. en Administración**, Universidad Nacional de Córdoba
+- **3+ years corporate experience** as Business Analyst at Accenture (Technology Consulting) and Grupo Edisur
+- **3 years in Australia** in AV Operations and Team Lead roles at The Star Entertainment Group (Gold Coast) and Encore (Sydney)
+- **Currently:** Independent consulting projects while transitioning back to a corporate role focused on Data and AI
 
 ---
 
